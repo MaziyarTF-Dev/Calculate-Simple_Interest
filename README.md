@@ -1,5 +1,7 @@
 # Calculate-Simple_Interest
 
+#do not forget to use your real name (Not your Username) at the begining of code and describe changes that you have made.
+
 #Please consider the below factors while contributing
 
 Code Style:
